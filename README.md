@@ -19,4 +19,4 @@ pip install pandas numpy matplotlib streamlit
 
 python simulate_data.py        # generates data.csv
 python detect_fraud.py         # outputs fraud_alerts.csv
-streamlit run app.py           # opens the interactive dashboard
+streamlit run app.py           # opens the interactive dashboard"# kplc-fraud-detection" 
